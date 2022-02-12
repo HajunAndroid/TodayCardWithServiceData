@@ -17,4 +17,4 @@
 <img src="https://user-images.githubusercontent.com/87768226/153696659-2121a6dd-b72b-4375-8cc9-2342fc710d75.JPG" width="16%" height="16%">
 
 ###### '오늘의 카드' 이벤트 정의
-<img src="https://user-images.githubusercontent.com/87768226/153696660-dfa2f926-9e4c-435f-8d25-fa5da8767c94.JPG" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/87768226/153696660-dfa2f926-9e4c-435f-8d25-fa5da8767c94.JPG" width="55%" height="55%">
