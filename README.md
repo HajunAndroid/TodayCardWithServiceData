@@ -18,7 +18,13 @@
 <img src="https://user-images.githubusercontent.com/87768226/153696811-30be39a8-f122-4d09-a777-d4262232ed0c.JPG" width="93%" height="93%">
 
 ###### '오늘의 카드' 행동 정의
-<img src="https://user-images.githubusercontent.com/87768226/153696659-2121a6dd-b72b-4375-8cc9-2342fc710d75.JPG" width="14%" height="14%">
+<img src="https://user-images.githubusercontent.com/87768226/153696659-2121a6dd-b72b-4375-8cc9-2342fc710d75.JPG" width="11%" height="11%">
 
 ###### '오늘의 카드' 이벤트 정의
-<img src="https://user-images.githubusercontent.com/87768226/153696660-dfa2f926-9e4c-435f-8d25-fa5da8767c94.JPG" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/87768226/153705234-8bd1bdfe-054a-4dac-941b-e4ea9570b3ce.JPG" width="41%" height="41%">
+
+#### [코드 삽입]
+<img src="https://user-images.githubusercontent.com/87768226/153705236-86e69912-83c2-48cd-aad2-cf5f9f087a5d.JPG" width="60%" height="60%">
+
+###### 코드 삽입 예시
+<img src="https://user-images.githubusercontent.com/87768226/153705432-77ea6767-41e3-48f8-b467-63cf0de7b431.JPG" width="67%" height="67%">
