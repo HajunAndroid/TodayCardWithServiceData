@@ -28,3 +28,10 @@
 
 ###### 코드 삽입 예시
 <img src="https://user-images.githubusercontent.com/87768226/153705432-77ea6767-41e3-48f8-b467-63cf0de7b431.JPG" width="67%" height="67%">
+
+#### [데이터 수집]
+
+###### Amplitude
+<img src="https://user-images.githubusercontent.com/87768226/153705837-fc42427e-e03e-40f3-9875-2bc3d0e9a89a.JPG" width="67%" height="67%">
+
+###### 위와 같이 지속적인 데이터 수집 후, '오늘의 카드'앱의 AU를 분석하고 서비스의 핵심 기능이 얼마나 사용되는지 분석할 수 있습니다. 또한 '현금 결제 내역 제공'처럼 앱 기능 확장의 타당성을 뒷 받침할 근거를 마련할 수 있습니다.
